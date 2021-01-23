@@ -1,0 +1,10 @@
+C:\Users\qq\source\repos\ex3\ex3\bin\Debug\ex3.exe.config
+C:\Users\qq\source\repos\ex3\ex3\bin\Debug\ex3.exe
+C:\Users\qq\source\repos\ex3\ex3\bin\Debug\ex3.pdb
+C:\Users\qq\source\repos\ex3\ex3\obj\Debug\ex3.csprojAssemblyReference.cache
+C:\Users\qq\source\repos\ex3\ex3\obj\Debug\ex3.Form1.resources
+C:\Users\qq\source\repos\ex3\ex3\obj\Debug\ex3.Properties.Resources.resources
+C:\Users\qq\source\repos\ex3\ex3\obj\Debug\ex3.csproj.GenerateResource.cache
+C:\Users\qq\source\repos\ex3\ex3\obj\Debug\ex3.csproj.CoreCompileInputs.cache
+C:\Users\qq\source\repos\ex3\ex3\obj\Debug\ex3.exe
+C:\Users\qq\source\repos\ex3\ex3\obj\Debug\ex3.pdb
